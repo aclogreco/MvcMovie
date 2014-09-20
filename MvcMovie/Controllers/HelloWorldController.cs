@@ -7,8 +7,8 @@ using System.Web.Mvc;
 namespace MvcMovie.Controllers {
 	public class HelloWorldController : Controller {
 		// GET: /HelloWorld/
-		public String Index () {
-			return "This is my <b>default</b> action...";
+		public ActionResult Index () {
+			return View();
 		}
 
 		// GET: /HelloWorld/Welcome/
