@@ -179,3 +179,5 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+MvcMovie/App_Data/aspnet-MvcMovie-20140918103310.mdf
+MvcMovie/App_Data/aspnet-MvcMovie-20140918103310_log.ldf
